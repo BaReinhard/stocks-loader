@@ -11,3 +11,6 @@
 
 **Description**:
 This can easily be used to get a list of stocks and store them in datastore for further processing at a later time.
+
+**Example**:
+![Example Image of Datastore Objects](https://user-images.githubusercontent.com/13072194/44961143-a92c3280-aec0-11e8-8fff-a0a06c109027.png)
